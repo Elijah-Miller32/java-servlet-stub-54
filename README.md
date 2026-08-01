@@ -1,2 +1,4 @@
-# java-servlet-stub-54
+# Java Servlet Stub 54
+
 Simple HTTP printing class in Java.
+
